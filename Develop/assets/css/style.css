@@ -49,6 +49,7 @@ a {
 p {
     font-size: 16px;
 }
+/* moved all search engine optimization elements and components together and to approximate equivelent location corresponding to index file */
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -68,6 +69,7 @@ p {
     font-size: 36px;
 }
 
+/* moved all online reputation manageent elements and components together and to approximate equivelent location corresponding to index file */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -86,6 +88,7 @@ p {
     font-size: 36px;
 }
 
+/* moved all social media marketing elements and components together and to approximate equivelent location corresponding to index file */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
