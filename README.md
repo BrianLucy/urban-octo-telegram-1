@@ -11,4 +11,8 @@ ACCEPTANCE CRITERIA (how to know when goals are acheived)
     *And ... the website is constucted semanticaly so parts of website can be identified through a screen reader.
     *And ... all links are functional
 
+Link to deployed page:
+https://brianlucy.github.io/urban-octo-telegram-1/
+
+
 
