@@ -14,5 +14,8 @@ ACCEPTANCE CRITERIA (how to know when goals are acheived)
 Link to deployed page:
 https://brianlucy.github.io/urban-octo-telegram-1/
 
+screen shot of deployed page:
+![alt text](Develop\assets\images\Screenshot of deployed page.png)
+
 
 
